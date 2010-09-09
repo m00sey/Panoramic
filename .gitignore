@@ -1,0 +1,5 @@
+build/
+Panoramic.xcodeproj/*.pbxuser
+Panoramic.xcodeproj/*.perspectivev3
+Panoramic.xcodeproj/project.xcworkspace/xcuserdata/kevingriffin.xcuserdatad/WorkspaceState.xcuserstate
+Panoramic.xcodeproj/xcuserdata/*
